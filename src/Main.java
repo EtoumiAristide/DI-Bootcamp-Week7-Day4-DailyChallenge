@@ -1,9 +1,6 @@
 import java.time.DateTimeException;
 import java.time.LocalDate;
 import java.time.Period;
-import java.time.ZonedDateTime;
-import java.time.temporal.TemporalField;
-import java.time.temporal.TemporalUnit;
 import java.util.Random;
 import java.util.Scanner;
 
